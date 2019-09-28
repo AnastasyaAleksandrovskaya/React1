@@ -5,7 +5,7 @@ import 'antd/dist/antd.css';
 import {Button, Input, Checkbox} from "antd";
 
 
-function App() {
+function App(){
     const todos=[1,2,3,4,5,6,7,8,9,10];
 
   return (
